@@ -5591,4 +5591,6 @@ global.backtotop
  var script = document.createElement('script');
  script.src = 'https://www.dim.fr/on/demandware.static/Sites-FR-Site/-/fr/v1609110318586/js/dim.js';
  document.body.appendChild(script);
+				     
+				     console.log('test');
 })();
